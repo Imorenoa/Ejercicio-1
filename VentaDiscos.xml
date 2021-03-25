@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disco>
+  <b><titulo>Título</titulo>
+  <artista>Artista</artista>
+  <pais>País</pais>
+  <discografica>Compañia discográfica</discografica>
+  <precio>Precio</precio>
+  <anyo>Año de publicacion</anyo></b>
+</disco>
+
+<disco>
+  <titulo>Still got the blues</titulo>
+  <artista>Gary Moore</artista>
+  <pais>UK</pais>
+  <discografica>Virgin records</discografica>
+  <precio>10.20</precio>
+  <anyo>1990</anyo>
+</disco>
+
+<disco>
+  <titulo>One night only</titulo>
+  <artista>Bee Gees</artista>
+  <pais>UK</pais>
+  <discografica>Polydor</discografica>
+  <precio>10.90</precio>
+  <anyo>1998</anyo>
+</disco>
+
+<disco>
+  <titulo>When a man loves a woman</titulo>
+  <artista>Percy Sledge</artista>
+  <pais>USA</pais>
+  <discografica>Atlantic</discografica>
+  <precio>8.70</precio>
+  <anyo>1987</anyo>
+</disco>
+
+<disco>
+  <titulo>Big Willie style</titulo>
+  <artista>Will Smith</artista>
+  <pais>USA</pais>
+  <discografica>Columbia</discografica>
+  <precio>9.20</precio>
+  <anyo>1997</anyo>
+</disco>

@@ -1,0 +1,30 @@
+body{
+  font-family: Tahoma  
+}
+h1{
+  background-color:#00aeef;
+  color:#fff;
+  padding:10px;
+  }
+table{
+    width: 60%;
+    padding: 5px;
+    margin:auto;
+  }
+.estilo1{
+  background-color:#00aeef;
+  color:#fff;
+  padding:10px;
+}
+.estiloinput{
+  background-color:#00aeef;
+  color:#fff;
+  padding:10px;
+  border: 0px;
+}
+.arial{font-family: arial}
+.comic{font-family: "Comic Sans MS"}
+.georgia{font-family: georgia}
+.impact{font-family: impact}
+.times{font-family: "Times New Roman";}
+.verdana{font-family: verdana}
