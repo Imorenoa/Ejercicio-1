@@ -6,33 +6,38 @@
   </head>
   <body>
     <h1>Formulario de contacto</h1>
-    <form class="arial">
+    <form class="arial"> <!-- crea elemento form -->
       <fieldset>
-        <legend>Contacto</legend>
-
+        <legend>Contacto</legend> <!-- Crea un titulo para los campos (fieldset) de un formulario -->
         <label>Nombre:</label>
+          <!-- Se estable un tipo de input, en este caso texto. Con placeholder se da una pequeña pista de lo que debemos introducir -->
           <input type="text" placeholder="Nombre">
           <br><br>
 
         <label>Contraseña:</<label>
+          <!-- En tipo se establece contraseña se le da un valor predefinido para que apareca como en el ejemplo de clase, la contraseña oculta-->
           <input type="password" value="123456789">
           <br><br>
 
         <laberl>Teléfono</label>
+          <!-- Tipo telefono en este caso -->
           <input type="tel" placeholder="911332828">
           <br><br>
 
         <label>Fecha:</label>
+            <!-- Tipo fecha -->
            <input class="arial" type="date">
            <br><br>
 
         <label>Mensaje:</label>
+          <!-- Se pone un area de texto con las caracteristicas como anchura y altura-->
           <textarea rows="5" cols="30" placeholder="Mensaje de texto"></textarea>
           <br><br>
-
+        <!-- Checkbox -->
         <input type="checkbox" id="condiciones">
         <label for="condiciones">Acepto los terminos y las condiciones</label>
         <br><br>
+        <!-- Se pone un boton para enviar el formulario y se le aplica un formato establecido en la hoja de estilos -->
         <input type="submit" name="" value="Enviar" class="estiloinput">
       </fieldset>
     </form>
